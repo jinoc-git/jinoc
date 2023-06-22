@@ -12,10 +12,22 @@ function Section({ todos, isDone, setTodos }) {
     });
     setTodos(newTodos);
   };
+  console.log(todos)
+  const deleteTodo = (id) => {
+    const newTodos = todos.filter((todo) => {
+        return todo.id !== id;
+    });
+    setTodos(newTodos);
+  };
   return (
     <section>
       <h2>{isDone ? "Done" : "Working"}</h2>
-      <Todo todos={todos} isDone={isDone} chageIsDone={chageIsDone} />
+      <Todo
+        todos={todos}
+        isDone={isDone}
+        chageIsDone={chageIsDone}
+        deleteTodo={deleteTodo}
+      />
     </section>
   );
 }
