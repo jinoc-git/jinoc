@@ -1,7 +1,8 @@
 import React from "react";
+import uuid from "react-uuid";
 
-function Todo({ todos, isDone }) {
-  console.log(todos);
+function Todo({ todos, isDone, chageIsDone }) {
+  
   return (
     <>
       {todos
@@ -10,12 +11,17 @@ function Todo({ todos, isDone }) {
         })
         .map((item) => {
           return (
-            <div>
+            <div key={uuid()}>
               <h3>{item.title}</h3>
               <p>{item.body}</p>
               <div>
                 <button>삭제하기</button>
-                <button>{item.isDone ? "완료취소" : "완료"}</button>
+                <button
+                  onClick={() => {
+                    chageIsDone(item.id);
+                  }}>
+                  {item.isDone ? "완료취소" : "완료"}
+                </button>
               </div>
             </div>
           );

@@ -58,8 +58,8 @@ function App() {
           </label>
           <button type="submit">추가하기</button>
         </form>
-        <Section todos={todos} isDone={false} />
-        <Section todos={todos} isDone={true} />
+        <Section todos={todos} setTodos={setTodos} isDone={false} />
+        <Section todos={todos} setTodos={setTodos} isDone={true} />
       </main>
     </>
   );
