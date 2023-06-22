@@ -1,7 +1,7 @@
 import React from "react";
 import uuid from "react-uuid";
 
-function Todo({ todos, isDone, chageIsDone }) {
+function Todo({ todos, isDone, chageIsDone, deleteTodo }) {
   
   return (
     <>
@@ -15,7 +15,9 @@ function Todo({ todos, isDone, chageIsDone }) {
               <h3>{item.title}</h3>
               <p>{item.body}</p>
               <div>
-                <button>삭제하기</button>
+                <button onClick={() => {
+                  deleteTodo(item.id);
+                }}>삭제하기</button>
                 <button
                   onClick={() => {
                     chageIsDone(item.id);
