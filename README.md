@@ -12,33 +12,36 @@
 - 🌱 I’m currently learning <b>TypeScript, JavaScript, Next.js, React.js</b>
 
 <br>
+<div align="left">
 
 ![jinoc's Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kittellee&langs_count=12&layout=compact&theme=onedark)
 ![jinoc's GitHub stats](https://github-readme-stats.vercel.app/api?username=jinoc-git)
 
+</div>
+
 ### Languages
 
-![javascript](https://img.shields.io/badge/Javascript-F7DF1E?style=flat&logo=javascript&logoColor=white)
-![typescript](https://img.shields.io/badge/Typescript-3178C6?style=flat&logo=typescript&logoColor=white)
+![javascript](https://img.shields.io/badge/Javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white)
+![typescript](https://img.shields.io/badge/Typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 
 ### Front-End
 
-![react](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
-![nextjs](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
-![zustand](https://img.shields.io/badge/Zustand-54273B?style=flat&logo=&logoColor=white)
-![React Query](https://img.shields.io/badge/React_Query-FF4154?style=flat&logo=reactquery&logoColor=white)
+![react](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![nextjs](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![zustand](https://img.shields.io/badge/Zustand-54273B?style=for-the-badge&logo=&logoColor=white)
+![React Query](https://img.shields.io/badge/React_Query-FF4154?style=for-the-badge&logo=reactquery&logoColor=white)
 <br/>
 
-![css3](https://img.shields.io/badge/CSS3-F43059.svg?&?style=flat&logo=CSS3&logoColor=white)
-![styled-components](https://img.shields.io/badge/StyledComponents-DB7093?style=flat&logo=styledcomponents&logoColor=white)
-![tailwind-css](https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
+![css3](https://img.shields.io/badge/CSS3-F43059.svg?&?style=for-the-badge&logo=CSS3&logoColor=white)
+![styled-components](https://img.shields.io/badge/StyledComponents-DB7093?style=for-the-badge&logo=styledcomponents&logoColor=white)
+![tailwind-css](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 ### Co-work
 
-![github](https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white)
-![slack](https://img.shields.io/badge/slack-4A154B?style=flat&logo=slack&logoColor=white)
-![notion](https://img.shields.io/badge/Notion-000000?style=flat&logo=notion&logoColor=white)
+![github](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white)
+![slack](https://img.shields.io/badge/slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
+![notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
 <br/>
 
-![figma](https://img.shields.io/badge/Figma-000000?style=flat&logo=figma&logoColor=white)
-![vscode](https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
+![figma](https://img.shields.io/badge/Figma-000000?style=for-the-badge&logo=figma&logoColor=white)
+![vscode](https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
