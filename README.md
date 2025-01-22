@@ -14,6 +14,7 @@
 ### Languages
 
 ![jinoc's Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kittellee&langs_count=12&layout=compact&theme=onedark)
+<br />
 ![javascript](https://img.shields.io/badge/Javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white)
 ![typescript](https://img.shields.io/badge/Typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 
@@ -25,7 +26,7 @@
 ![React Query](https://img.shields.io/badge/React_Query-FF4154?style=for-the-badge&logo=reactquery&logoColor=white)
 <br/>
 
-![css3](https://img.shields.io/badge/CSS3-F43059.svg?&?style=for-the-badge&logo=CSS3&logoColor=white)
+![css3](https://img.shields.io/badge/CSS3-F43059?&?style=for-the-badge&logo=CSS3&logoColor=white)
 ![styled-components](https://img.shields.io/badge/StyledComponents-DB7093?style=for-the-badge&logo=styledcomponents&logoColor=white)
 ![tailwind-css](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
@@ -39,6 +40,8 @@
 ![figma](https://img.shields.io/badge/Figma-000000?style=for-the-badge&logo=figma&logoColor=white)
 ![vscode](https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
-#### GitHub Stats
+---
+
+### GitHub Stats
 
 ![jinoc's GitHub stats](https://github-readme-stats.vercel.app/api?username=jinoc-git)
