@@ -4,11 +4,6 @@
 
 - Name : 노진철
 - Email : choiae369@gmail.com
-- Education
-  - 2025.01 ~ 진행 중 : 코드잇 스프린트
-  - 2024.03 ~ 2024.03 : 스파르타 빌더스 Dev Camp
-  - 2023.05 ~ 2023.09 : 스파르타 코딩 클럽
-  - 2022.11 ~ 2023.04 : 방송정보국제교육원
 - 🌱 I’m currently learning <b>TypeScript, JavaScript, Next.js, React.js</b>
 
 ### Languages
