@@ -8,7 +8,7 @@
 
 ### Languages
 
-![jinoc's Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kittellee&langs_count=12&layout=compact&theme=onedark)
+![jinoc's Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jinoc-git&langs_count=4&layout=donut&theme=onedark)
 <br />
 ![javascript](https://img.shields.io/badge/Javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white)
 ![typescript](https://img.shields.io/badge/Typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
